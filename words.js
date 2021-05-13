@@ -35,6 +35,7 @@ Jemand läuft mit dem Endgerät durch die Gegen oder sitzt im ÖPNV
 "Zwinki Zwonki"
 Jemand strickt, häkelt oder spinnt.
 "Schlimm, schlimm, schlimm"
+Bei irgendwem gibt es Pizza
 
 
 `;
