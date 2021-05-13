@@ -36,6 +36,7 @@ Jemand läuft mit dem Endgerät durch die Gegen oder sitzt im ÖPNV
 Jemand strickt, häkelt oder spinnt.
 "Schlimm, schlimm, schlimm"
 Bei irgendwem gibt es Pizza
+Hast Du _____ gerade fett genannt?
 
 
 `;
