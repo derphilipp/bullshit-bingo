@@ -34,6 +34,7 @@ Jemand läuft mit dem Endgerät durch die Gegen oder sitzt im ÖPNV
 "Grüße!"
 "Zwinki Zwonki"
 Jemand strickt, häkelt oder spinnt.
+"Schlimm, schlimm, schlimm"
 
 
 `;
