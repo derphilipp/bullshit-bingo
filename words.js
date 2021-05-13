@@ -5,7 +5,7 @@ Gesche singt bei den Vengaboys mit
 Jemand spricht, ist aber stumm geschaltet
 Bei Sven gibt es Nüsschen
 Begeisterung über Frau Hund
-Jemands agt "Da regt mich (allein) schon die Frage auf."
+Jemand sagt "Da regt mich (allein) schon die Frage auf."
 Jemand ist plötzlich weg - oder doppelt da
 Irgendwas mit Jörn und Döner
 Jemand fragt nach dem Link zum CyTube
@@ -30,7 +30,7 @@ Es gibt neuen Content für Philipps Flachwitze Repo
 "Joa... und sonst so?" / "Haben wir noch Themen?"
 Jemand läuft mit dem Endgerät durch die Gegen oder sitzt im ÖPNV
 "Willst Du die Antwort alphabetisch oder nach ICD-10 Nummern?"
-"Auf Wiederjörn"/ "Auf Verasehn" / "Inge gerne gerne"
+"Auf Wiederjörn"/ "Auf Verasehn" / "Inga wieder gerne"
 "Grüße!"
 "Zwinki Zwonki"
 Jemand strickt, häkelt oder spinnt.
