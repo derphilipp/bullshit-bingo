@@ -15,7 +15,7 @@ Podstock, Deichpod, Bunkerpod, o.Ä. wird erwähnt
 "Sagt das Mädchen zum Matrosen" oder Variante
 Jemand sagt "Bisamratte!" oder Thomann wird erwähnt
 "Hallöchen!"
-Jitsi Begrüßungs-Winke-Schleife
+Jitsi-Winke-Schleife
 Gejammer wegen irgendwas mit Ohrwürmern und nach 21 Uhr.
 "Gute Nase!"
 "Prösterchen"
