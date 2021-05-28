@@ -37,6 +37,7 @@ Jemand strickt, häkelt oder spinnt.
 "Schlimm, schlimm, schlimm"
 Bei irgendwem gibt es Pizza
 Hast Du _____ gerade fett genannt?
+"Irgendwas ist immer"
 
 
 `;
