@@ -37,6 +37,7 @@ Jemand strickt, häkelt oder spinnt.
 "Schlimm, schlimm, schlimm"
 Bei irgendwem gibt es Pizza
 Hast Du _____ gerade fett genannt?
+Das ist witzig, weil...
 Gesche singt zu Musik der Playlist mit mit
 Catcontent/Flauschcontent
 Flauscheviecher
