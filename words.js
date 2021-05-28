@@ -15,9 +15,9 @@ Podstock, Deichpod, Bunkerpod, o.Ä. wird erwähnt
 "Sagt das Mädchen zum Matrosen" oder Variante
 Jemand sagt "Bisamratte!" oder Thomann wird erwähnt
 "Hallöchen!"
-Jitsi Begrüßungs-Winke-Schleife
+Jitsi-Winke-Schleife
 Gejammer wegen irgendwas mit Ohrwürmern und nach 21 Uhr.
-"Gute nase!"
+"Gute Nase!"
 "Prösterchen"
 "Der gebende Blick" oder erwähnt oder gegeben.
 Irgendwer betont (k)eine Hose an zu haben.
@@ -37,7 +37,10 @@ Jemand strickt, häkelt oder spinnt.
 "Schlimm, schlimm, schlimm"
 Bei irgendwem gibt es Pizza
 Hast Du _____ gerade fett genannt?
-Das ist witzig, weil..
+Das ist witzig, weil...
+Gesche singt zu Musik der Playlist mit mit
+Catcontent/Flauschcontent
+Flauscheviecher
 
 
 `;
