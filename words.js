@@ -4,13 +4,13 @@ const words = `
 Gesche singt bei den Vengaboys mit
 Jemand spricht, ist aber stumm geschaltet
 Bei Sven gibt es Nüsschen
-Begeisterung über Frau Hund
 Jemand sagt "Da regt mich (allein) schon die Frage auf."
 Jemand ist plötzlich weg - oder doppelt da
 Irgendwas mit Jörn und Döner
 Jemand fragt nach dem Link zum CyTube
 Sascha ist nur kurz Bier holen.
 Ein Wortspiel wird als "auf Blathering-Niveau" eingestuft
+Jemand redet, ist aber gemuted
 Podstock, Deichpod, Bunkerpod, o.Ä. wird erwähnt
 "Sagt das Mädchen zum Matrosen" oder Variante
 Jemand sagt "Bisamratte!" oder Thomann wird erwähnt
