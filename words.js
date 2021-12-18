@@ -42,6 +42,9 @@ Das ist witzig, weil...
 Gesche singt zu Musik der Playlist mit mit
 Catcontent/Flauschcontent
 Flauscheviecher
+Claudia erzählt etwas ihrer Zeit auf einem Schiff
+Claudia erzählt etwas von Zollnummern
+Irgendwas mit großen, roten Autos
 
 
 `;
