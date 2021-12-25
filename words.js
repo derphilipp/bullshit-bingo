@@ -45,6 +45,9 @@ Flauscheviecher
 Claudia erzählt etwas von ihrer Zeit auf einem Schiff
 Claudia erzählt etwas von Zollnummern
 Irgendwas mit großen, roten Autos
+"Ach, Ach, Ach"
+"Des isch jo des"
+Jemand schließt versehentlich den Jitsi-Tab
 
 
 `;
