@@ -10,7 +10,6 @@ Irgendwas mit Jörn und Döner
 Jemand fragt nach dem Link zum CyTube
 Sascha ist nur kurz Bier holen.
 Ein Wortspiel wird als "auf Blathering-Niveau" eingestuft
-Jemand redet, ist aber gemuted
 Podstock, Deichpod, Bunkerpod, o.Ä. wird erwähnt
 "Sagt das Mädchen zum Matrosen" oder Variante
 Jemand sagt "Bisamratte!" oder Thomann wird erwähnt
@@ -39,7 +38,7 @@ Bei irgendwem gibt es Pizza
 Hast Du _____ gerade fett genannt?
 "Irgendwas ist immer"
 Das ist witzig, weil...
-Gesche singt zu Musik der Playlist mit mit
+Gesche singt zu Musik der Playlist mit
 Catcontent/Flauschcontent
 Flauscheviecher
 Claudia erzählt etwas von ihrer Zeit auf einem Schiff
