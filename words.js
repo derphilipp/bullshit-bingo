@@ -45,6 +45,8 @@ Flauscheviecher
 Claudia erzählt etwas von ihrer Zeit auf einem Schiff
 Claudia erzählt etwas von Zollnummern
 Irgendwas mit großen, roten Autos
-
+Hund alleine im Aufzug
+Jemand ist mit dem Auto Unterwegs
+Jemand liegt im Bett
 
 `;
